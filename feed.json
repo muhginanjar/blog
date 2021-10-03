@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ginanjar Blog",
+    "description": "",
+    "home_page_url": "https://muhginanjar.github.io/blog",
+    "feed_url": "https://muhginanjar.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ginanjar"
+    },
+    "items": [
+        {
+            "id": "https://muhginanjar.github.io/blog/percobaan-1-pakai-publii.html",
+            "url": "https://muhginanjar.github.io/blog/percobaan-1-pakai-publii.html",
+            "title": "Percobaan #1 pakai publii",
+            "summary": "Jadi tadi aku meeting, dan ada satu static cms yang bagus, yaitu publii. Dilihat-lihat sih bagus ya. Dia berupa application (kebetulan saya pakai windows) dan bagus juga. ",
+            "content_html": "<p>Jadi tadi aku meeting, dan ada satu static cms yang bagus, yaitu publii.</p>\n<p>Dilihat-lihat sih bagus ya. Dia berupa application (kebetulan saya pakai windows) dan bagus juga. </p>",
+            "image": "https://muhginanjar.github.io/blog/media/posts/1/publii-jpg.png",
+            "author": {
+                "name": "Ginanjar"
+            },
+            "tags": [
+                   "lab"
+            ],
+            "date_published": "2021-10-03T11:09:38+07:00",
+            "date_modified": "2021-10-03T11:10:59+07:00"
+        }
+    ]
+}

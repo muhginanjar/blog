@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Ginanjar Blog</title>
+    <link href="https://muhginanjar.github.io/blog/feed.xml" rel="self" />
+    <link href="https://muhginanjar.github.io/blog" />
+    <updated>2021-10-03T11:10:59+07:00</updated>
+    <author>
+        <name>Ginanjar</name>
+    </author>
+    <id>https://muhginanjar.github.io/blog</id>
+
+    <entry>
+        <title>Percobaan #1 pakai publii</title>
+        <author>
+            <name>Ginanjar</name>
+        </author>
+        <link href="https://muhginanjar.github.io/blog/percobaan-1-pakai-publii.html"/>
+        <id>https://muhginanjar.github.io/blog/percobaan-1-pakai-publii.html</id>
+            <category term="lab"/>
+
+        <updated>2021-10-03T11:10:59+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://muhginanjar.github.io/blog/media/posts/1/publii-jpg.png" alt="" />
+                    Jadi tadi aku meeting, dan ada satu static cms yang bagus, yaitu publii. Dilihat-lihat sih bagus ya. Dia berupa application (kebetulan saya pakai windows) dan bagus juga. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://muhginanjar.github.io/blog/media/posts/1/publii-jpg.png" alt="" />
+                <p>Jadi tadi aku meeting, dan ada satu static cms yang bagus, yaitu publii.</p>
+<p>Dilihat-lihat sih bagus ya. Dia berupa application (kebetulan saya pakai windows) dan bagus juga. </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
